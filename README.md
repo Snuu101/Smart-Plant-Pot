@@ -14,11 +14,11 @@ To build a Smart Plant Pot for yourself you need to follow all the instructions:
 ### 1 - The Hardware
 [Setting up and configuring the Hardware]()
 
-### 2 - The Back-End
-[Implementing the REST API and configuring the Database](https://github.com/Snuu101/Smart-Plant-Pot)
-
-### 3 - The IOS App
+### 2 - The IOS App
 [Implementing the IOS App]()
+
+### 3 - The Back-End
+[Implementing the REST API and configuring the Database](https://github.com/Snuu101/Smart-Plant-Pot)
 
 ## Future Development
 
