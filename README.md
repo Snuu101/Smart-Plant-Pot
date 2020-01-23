@@ -23,5 +23,6 @@ To build a Smart Plant Pot for yourself you need to follow all the instructions 
 ## Future Development
 - **User Management:** The abillity to create and manage multiple users. 
 - **Design a plant pot:** A 3D printable plant pot that includes all the hardware.
+- **More Sensors:** Extend the hardware implementation to support more sensors (brightness sensor, etc.)
 
 ## Known Issues
