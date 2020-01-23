@@ -9,13 +9,13 @@ Smart Plant Pot was developed during the lecture Free and Open Technologies at t
 3. **The Back-End:** A mySQL database and a REST API allow communication between your app and your plants and keep your data accessible at any time.
 
 ## Let's get started
-To build a Smart Plant Pot for yourself you need to follow all the instructions:
+To build a Smart Plant Pot for yourself you need to follow all the instructions provided in the documentations below:
 
 ### 1 - The Hardware
-[Setting up and configuring the Hardware]()
+[Setting up and configuring the Hardware](https://github.com/FeliziusV/SmartPod-Hardware-Side)
 
 ### 2 - The iOS App
-[Implementing the iOS App]()
+[Implementing the iOS App](https://github.com/antizwiebel/SmartPot_iOS)
 
 ### 3 - The Back-End
 [Implementing the REST API and configuring the Database](https://github.com/Snuu101/Smart-Plant-Pot-Back-End)
