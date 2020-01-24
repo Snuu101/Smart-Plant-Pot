@@ -6,7 +6,9 @@ Manage your plants from your phone and keep them alive.
 </p>
 
 ## The Project
-Smart Plant Pot was developed during the lecture Free and Open Technologies at the TU Vienna. The goal of the lecture is to sensibilise and promote the use and production of free and open technologies. Our contribution to the open source community is a do it yourself guidance to create a Smart Plant Pot. The Smart Plant Pot provides you with an iOS app that helps you manage all your plants in your household. It lets you keep track of the soil moisture, air humidity, temperature of all your plants and also lets you take pictures from them. The necessary data is collected via sensors directly from your plant pots and gets send to a database on a server, hence making them accessible from all your mobile devices wherever you are.
+Smart Plant Pot was developed during the lecture Free and Open Technologies at the TU Vienna. The goal of the lecture is to sensibilise and promote the use and production of free and open technologies. Our contribution to the open source community is a do it yourself guidance to create a Smart Plant Pot. 
+
+The Smart Plant Pot provides you with an iOS app that helps you manage all your plants in your household. It lets you keep track of the soil moisture, air humidity, temperature of all your plants and also lets you take pictures from them. The necessary data is collected via sensors directly from your plant pots and gets send to a database on a server, hence making them accessible from all your mobile devices wherever you are.
 
 ## Architecture
 
