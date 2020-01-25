@@ -43,4 +43,4 @@ To build a Smart Plant Pot for yourself you need to follow all the instructions 
 ## Known Issues
 
 ## Licence
-All three parts of the Smart Plant Pot project are licensed under the GNU General Public License v3.0. See [LICENCE](/LICENSE) for additional information.
+All three parts of the Smart Plant Pot project are licenced under the GNU General Public License v3.0. See [LICENCE](/LICENSE) for additional information.
