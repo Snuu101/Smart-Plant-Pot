@@ -41,3 +41,6 @@ To build a Smart Plant Pot for yourself you need to follow all the instructions 
 - **Android app:** To make the Smart Plant Pot available for Android users as well, an Android app needs to be developed. Both iOS and Android app should share the same functionality.
 
 ## Known Issues
+
+## Licence
+All three parts of the Smart Plant Pot project are licensed under the GNU General Public License v3.0. See [LICENCE](/LICENSE) for additional information.
